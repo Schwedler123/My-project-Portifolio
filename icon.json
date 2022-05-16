@@ -1,0 +1,24 @@
+{
+    "icons": [
+        {
+            "src": "./PWA.png",
+            "sizes": "525x525",
+            "type": "image/png"
+        },
+        {
+            "src": "./PWA.png",
+            "sizes": "525x525",
+            "type": "image/png"
+        },
+        {
+            "src": "./PWA.png",
+            "sizes": "525x525",
+            "type": "image/png"
+        },
+        {
+            "src": "./PWA.png",
+            "sizes": "525x525",
+            "type": "image/png"
+        }
+    ]
+  }
