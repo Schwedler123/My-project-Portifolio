@@ -1,4 +1,5 @@
 window.addEventListener('scroll', onScroll)
+const navigation = document.querySelector('[data-js="navigation-on"]')
 
 onScroll()
 function onScroll() {
